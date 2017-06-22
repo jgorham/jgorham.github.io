@@ -1,0 +1,25 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+nav_exclude: true
+---
+
+div.anchordiv {
+  align-content: center;
+}
+div.biocontainer {
+  display:block;
+  margin: 0 auto;
+  min-height:350px;
+  max-width: 750px;
+  position:relative;
+}
+div.profile {
+  left:0;
+  position:absolute;
+  top:0;
+  width:290px;
+}
+div.bio {
+  margin-left: 350px;
+}
