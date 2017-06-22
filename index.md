@@ -14,8 +14,7 @@ order: 1
         <b style="font-size:1.3rem;">Jackson Gorham</b> <br/>(jacksongorham at gmail dot com)
       </p>
       <p>
-I completed my PhD in June 2017 from the <a href="https://statistics.stanford.edu/">Stanford statistics
-department</a>, advised
+I completed my Ph.D. in statistics in June 2017 at <a href="https://statistics.stanford.edu/">Stanford</a>, advised
 by <a href="http://web.stanford.edu/~lmackey/">Lester Mackey</a>
 and <a href="http://statweb.stanford.edu/~candes/"> Emmanuel Candes</a>. Earlier, I
 received my B.S. (with honors) in mathematics from Stanford University in
