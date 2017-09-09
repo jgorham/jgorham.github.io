@@ -23,13 +23,13 @@ was <a href="http://www.matthewkahle.org/">Matthew Kahle</a>.
       </p>
       <p>
 My interests are in <b>scalable machine learning</b>, <b>convex
-optimization</b>,
-<b>Stein's method</b>, and <b>data visualization</b>. I've interned at
-<a href="https://www.counsyl.com/">Counsyl</a> and also worked as
-a <a href="https://research.facebook.com/datascience/">data scientist at
-Facebook</a>. I do not think there's a best programming language, and I'm
-neither a frequentist nor a Bayesian. My preference is for whatever works
-best!
+optimization</b>, <b>Stein's method</b>, and <b>data visualization</b>. I've
+interned at <a href="https://www.counsyl.com/">Counsyl</a>, worked as a <a
+href="https://research.facebook.com/datascience/">data scientist at
+Facebook</a>, and currently am a data scientist at <a
+href="https://www.opendoor.com/">Opendoor</a>.  I do not think there's a
+best programming language, and I'm neither a frequentist nor a Bayesian. My
+preference is for whatever works best!
       </p>
     </div>
   </div>
