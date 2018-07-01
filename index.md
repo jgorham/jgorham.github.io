@@ -20,6 +20,9 @@ and <a href="http://statweb.stanford.edu/~candes/"> Emmanuel Candes</a>. Earlier
 received my B.S. (with honors) in mathematics from Stanford University in
 2006 and my undergraduate advisor
 was <a href="http://www.matthewkahle.org/">Matthew Kahle</a>.
+My doctoral dissertation was the 2017 winner of the
+<a href="https://bayesian.org/project/savage-award/">Savage award</a>
+in theory and methods.
       </p>
       <p>
 My interests are in <b>scalable machine learning</b>, <b>convex
