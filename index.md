@@ -18,7 +18,7 @@ I completed my Ph.D. in statistics in June 2017 at <a href="https://statistics.s
 by <a href="http://web.stanford.edu/~lmackey/">Lester Mackey</a>
 and <a href="http://statweb.stanford.edu/~candes/"> Emmanuel Candes</a>. Earlier, I
 received my B.S. (with honors) in mathematics from Stanford University in
-2006 and my undergraduate advisor
+2010 and my undergraduate advisor
 was <a href="http://www.matthewkahle.org/">Matthew Kahle</a>.
 My doctoral dissertation was the 2017 winner of the
 <a href="https://bayesian.org/project/savage-award/">Savage award</a>
