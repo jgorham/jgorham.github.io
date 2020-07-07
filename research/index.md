@@ -6,6 +6,7 @@ order: 2
 
 ## Publications & Preprints
 
++ Jackson Gorham, Anant Raj and Lester Mackey. "Stochastic Stein Discrepancies." *Under Review, July 2020.* [[arxiv]](https://arxiv.org/abs/2007.02857) [[code]](https://github.com/jgorham/stochastic_stein_discrepancy)
 + Wilson Ye Chen, Alessandro Barp, François-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris. J. Oates. "Stein Point Markov Chain Monte Carlo." *International Conference on Machine Learning (ICML), June 2019.* [[arxiv]](https://arxiv.org/abs/1905.03673)
 + Wilson Ye Chen, Lester Mackey, Jackson Gorham, François-Xavier Briol and Chris J. Oates. "Stein Points." *International Conference on Machine Learning (ICML), July 2018.* [[arxiv]](https://arxiv.org/abs/1803.10161)
 + Jackson Gorham and Lester Mackey. "Measuring Sample Quality with Kernels." *International Conference on Machine Learning (ICML), August 2017.* [[arxiv]](https://arxiv.org/abs/1703.01717) [[code]](https://jgorham.github.io/SteinDiscrepancy.jl/)
