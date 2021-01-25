@@ -6,7 +6,7 @@ order: 2
 
 ## Publications & Preprints
 
-+ Onur Teymur, Jackson Gorham, Marina Riabiz and Chris. J. Oates. "Optimal Quantisation of Probability Measures Using Maximum Mean Discrepancy." *Under Review, October 2020.* [[arxiv]](https://arxiv.org/abs/2010.07064)
++ Onur Teymur, Jackson Gorham, Marina Riabiz and Chris. J. Oates. "Optimal Quantisation of Probability Measures Using Maximum Mean Discrepancy." *AISTATS. April 2021.* [[arxiv]](https://arxiv.org/abs/2010.07064)
 + Jackson Gorham, Anant Raj and Lester Mackey. "Stochastic Stein Discrepancies." *Advances in Neural Information Processing Systems. December 2020.* [[arxiv]](https://arxiv.org/abs/2007.02857) [[code]](https://github.com/jgorham/stochastic_stein_discrepancy)
 + Wilson Ye Chen, Alessandro Barp, François-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris. J. Oates. "Stein Point Markov Chain Monte Carlo." *International Conference on Machine Learning (ICML), June 2019.* [[arxiv]](https://arxiv.org/abs/1905.03673)
 + Jackson Gorham, Andrew Duncan, Sebastian Vollmer and Lester Mackey. "Measuring Sample Quality with Diffusions." *Annals of Applied Probability 2019, Vol. 29, No. 5, 2884-2928* [[arxiv]](https://arxiv.org/abs/1611.06972) [[code]](https://jgorham.github.io/SteinDiscrepancy.jl/)
