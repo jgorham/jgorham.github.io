@@ -29,10 +29,9 @@ My interests are in <b>scalable machine learning</b>, <b>convex
 optimization</b>, <b>Stein's method</b>, and <b>data visualization</b>. I've
 interned at the biotech firm <a href="https://www.counsyl.com/">Counsyl</a>, worked as a <a
 href="https://research.facebook.com/datascience/">data scientist at
-Facebook</a>, and also worked as a data scientist at <a
-href="https://www.opendoor.com/">Opendoor</a>. I am currently an ML eng at
-<a href="https://whisper.ai/">whisper.ai</a>, where we're using statistics
-and ML to power a new generation of hearing aids. I do not think there's a
+Facebook</a>, a data scientist at <a href="https://www.opendoor.com/">Opendoor</a>, and also an ML eng at
+<a href="https://whisper.ai/">whisper.ai</a>. I currently am at Meta where we're using statistics and ML to create 
+advanced augmented hearing processing. I do not think there's a
 best programming language, and I'm neither a frequentist nor a Bayesian. My
 preference is for whatever works best!
       </p>
